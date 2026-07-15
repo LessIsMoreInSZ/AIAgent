@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/01-basic-chat/">
+    <Project Path="01-basic-chat/BasicChat.csproj" />
+  </Folder>
+  <Folder Name="/02-tool-agent/">
+    <Project Path="02-tool-agent/ToolAgent.csproj" />
+  </Folder>
+  <Folder Name="/03-memory-rag/">
+    <Project Path="03-memory-rag/MemoryRagAgent.csproj" />
+  </Folder>
+  <Folder Name="/04-service-eval/">
+    <Project Path="04-service-eval/ServiceEvalDemo.csproj" />
+  </Folder>
+  <Folder Name="/05-mcp-style-tools/">
+    <Project Path="05-mcp-style-tools/McpStyleTools.csproj" />
+  </Folder>
+  <Folder Name="/06-multi-agent-capstone/">
+    <Project Path="06-multi-agent-capstone/MultiAgentCapstone.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Agent.Common/Agent.Common.csproj" />
+  </Folder>
+</Solution>
